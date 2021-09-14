@@ -48,5 +48,4 @@ public class Product {
 	public void setProductQty(String productQty) {
 		this.productQty = productQty;
 	}
-	
 }
